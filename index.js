@@ -62,5 +62,5 @@ client.on("message", message => {
     guild.channel.send(`Adeus ${member.user.username} Espero que volte um dia!`);
   });  
 
-client.login("NDIyMjA5ODU5NzQ5MTUwNzIw.DYYp0g.yrMskwI6yww70CophiHFtf0nghs")
+client.login(token)
 console.log('GO!')
